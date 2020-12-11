@@ -1,6 +1,6 @@
 # Angular 11 SpringBoot JWT Authentication Example
 
-![Angular 11 SpringBoot JWT Authentication Example](https://loizenai.com/angular-11-spring-boot-jwt-authentication-example/)
+[Angular 11 SpringBoot JWT Authentication Example](https://loizenai.com/angular-11-spring-boot-jwt-authentication-example/)
 
 ![Angular 11 SpringBoot JWT Authentication Example](https://loizenai.com/wp-content/uploads/2020/12/Angular-11-SpringBoot-Jwt-Authentication-Example-1.png)
 
